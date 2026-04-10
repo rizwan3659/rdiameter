@@ -1,0 +1,8 @@
+[workspace]
+members = [
+    "rd-codec",
+    "rd-engine",
+    "rd-credit",
+    "rd-cli",
+]
+resolver = "2"
